@@ -20,10 +20,3 @@
 - Greedy Algorithms  
 
 ---
-
-## 🔧 How to Run
-
-1. Compile the program:  
-   ```bash
-   g++ -o cashflow_optimizer CashflowOptimizer.cpp
-./cashflow_opyimizer
